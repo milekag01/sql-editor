@@ -6,8 +6,10 @@ SQL editor view where your users can query easily on a table using SQL, and see 
 - Query History
 - Save Query
 - Quickly access tables using sidebar list
+- View result tables
 - Export results
 - Toast messages
+- Table loader
 ## Tech
 - ReactJS
 - Redux
